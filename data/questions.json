@@ -122,28 +122,8 @@
     },
     {
       "type": "identification",
-      "question": "Under 'Strive for Consistency', users should not have to wonder whether different words, situations, or actions mean what?",
-      "answer": "the same thing"
-    },
-    {
-      "type": "identification",
-      "question": "What advice is given to avoid confusing your user under the consistency principle?",
-      "answer": "use all elements across your application consistently"
-    },
-    {
-      "type": "identification",
-      "question": "Under 'Remind Users and Refresh Their Memory', what type of interfaces should be employed?",
-      "answer": "interfaces that give continuous reminders of important information and thereby refresh the user’s memory"
-    },
-    {
-      "type": "identification",
       "question": "What do users hate, and even more so, hate the feeling that they themselves have done something wrong?",
       "answer": "errors"
-    },
-    {
-      "type": "identification",
-      "question": "Under 'Prevent Errors/Reversal of Action', what should be done with error-prone conditions?",
-      "answer": "Either eliminate error-prone conditions or check for them and notify users about that before they commit to the action."
     },
     {
       "type": "identification",
@@ -164,11 +144,6 @@
       "type": "identification",
       "question": "What should be offered for problems under error prevention?",
       "answer": "Offer solutions for problems."
-    },
-    {
-      "type": "identification",
-      "question": "What is favored under the final major HCI principle of 'Naturalness'?",
-      "answer": "“natural” interaction and interfaces"
     },
     {
       "type": "identification",
@@ -217,16 +192,6 @@
     },
     {
       "type": "identification",
-      "question": "What does usability ensure regarding the completion of a task?",
-      "answer": "correct completion of the task"
-    },
-    {
-      "type": "identification",
-      "question": "What aspect of tasks makes memory involvement significant, requiring continuous reminders?",
-      "answer": "Any significant task"
-    },
-    {
-      "type": "identification",
       "question": "What must designers and developers be, according to the conclusion?",
       "answer": "future designers and developers"
     },
@@ -244,11 +209,6 @@
       "type": "identification",
       "question": "What term describes interfaces that are easy to use and efficient for the task?",
       "answer": "USABILITY"
-    },
-    {
-      "type": "identification",
-      "question": "What source material is this information derived directly and literally from?",
-      "answer": "HCI_Chapter 1: Introduction to Human-Computer Interaction source material"
     },
     {
       "type": "enumeration",
